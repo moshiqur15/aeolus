@@ -1,0 +1,1 @@
+pip install pandas,NumPy,scikit-learn,matplotlib,seaborn,plotly,requests,beautifulsoup4,lxml,flask,django,sqlalchemy,jupyterlab,notebook
